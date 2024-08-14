@@ -1,8 +1,8 @@
-#SkyBee
+# SkyBee
 
 An app for traveling. Built with Flutter and Firebase. It offers real-time flight info, maps, and more.
 
-##Versions:
+## Versions:
 
 Flutter: 3.19.0
 
