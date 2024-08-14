@@ -1,20 +1,11 @@
-# airport_project
+#SkyBee
 
-A new Flutter project.
+An app for traveling. Built with Flutter and Firebase. It offers real-time flight info, maps, and more.
 
-## Getting Started
+##Versions:
 
-This project is a starting point for a Flutter application.
+Flutter: 3.19.0
 
-A few resources to get you started if this is your first Flutter project:
+Dart: 3.3.0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# skybee" 
-"# skybee" 
-"# skybee" 
-"# skybee" 
+Note: Please use these versions when running the code, as newer versions may introduce incompatibilities.
